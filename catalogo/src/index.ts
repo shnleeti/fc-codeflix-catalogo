@@ -1,4 +1,5 @@
 import {ApplicationConfig, CatalogoApplication} from './application';
+import './bootstrap';
 
 export * from './application';
 
